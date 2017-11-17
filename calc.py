@@ -23,7 +23,7 @@ def add(a, b):
 # a -- minuend
 # b -- subtrahend
 def sub(a, b):
-    return a - b
+    return a + b
 
 # Multiply function
 # a -- multiplicand
@@ -48,7 +48,6 @@ def div(a, b):
 a = None
 b = None
 op = None
-
 while (True):
     # get input values
     a = raw_input("Enter the first argument: ")
