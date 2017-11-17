@@ -48,11 +48,7 @@ def div(a, b):
 a = None
 b = None
 op = None
-<<<<<<< HEAD
-print "Welcome to Pycalc"
-=======
 
->>>>>>> parent of b9884f7... addition
 while (True):
     # get input values
     a = raw_input("Enter the first argument: ")
